@@ -1,1 +1,1 @@
-not-emptya
+waqf
