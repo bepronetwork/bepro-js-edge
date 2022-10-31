@@ -1,1 +1,1 @@
-waqf
+mnmn
