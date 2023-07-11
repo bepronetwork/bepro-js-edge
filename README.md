@@ -1,6 +1,1 @@
 readme
-
-nuyf
-nssd
-k
-
