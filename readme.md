@@ -1,1 +1,1 @@
-asd
+bepro-js-edge
