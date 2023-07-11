@@ -1,1 +1,1 @@
-readme
+bepro-js-edge
