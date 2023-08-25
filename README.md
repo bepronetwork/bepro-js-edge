@@ -1,1 +1,1 @@
-teste
+bepro-js-edge
